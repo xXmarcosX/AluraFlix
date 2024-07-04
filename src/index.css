@@ -1,0 +1,10 @@
+:root{
+    --preto: #262626;
+    --azul: #216ECB;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

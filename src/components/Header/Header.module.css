@@ -1,0 +1,13 @@
+header{
+    background-color: var(--preto);
+    display: flex;
+    justify-content: space-between;
+    padding: 2em 3em;
+    align-items: center;
+}
+
+.headerBtns{
+    width: 20%;
+    display: flex;
+    gap: 20px;
+}
