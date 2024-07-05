@@ -3,7 +3,7 @@ import { CiEdit } from "react-icons/ci";
 import { MdOutlineDeleteForever } from "react-icons/md";
 import style from "./Card.module.css";
 
-const Card = ({video}) => {
+const Card = ({video, cor}) => {
 
     const handleDelete = (id) => {
         console.log(id)
@@ -11,7 +11,7 @@ const Card = ({video}) => {
 
   return (
     <>
-      <div className={style.container}>
+      <div className={style.container} style={{border: `6px solid ${cor}`, boxShadow: `inset 0 0 40px ${cor}`}}>
         <div className={style.containerImg}>
           <img src={video.imagem} alt={video.titulo} />
         </div>

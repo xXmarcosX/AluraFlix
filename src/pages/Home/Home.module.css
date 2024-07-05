@@ -1,16 +1,21 @@
 .main{
     width: 100%;
-    padding: 2.5em 1.5em;
+    padding: 0 1.5em;
     background-color: #191919;
 }
 
 .container{
+    padding-top: 3%;
+    width: 100%;
     display: flex;
     flex-direction: column;
     gap: 40px;
 }
 
 .containerVideos{
+    justify-content: center;
+    width: 100%;
     display: flex;
+    flex-wrap: wrap;
     gap: 32px;
 }
