@@ -15,7 +15,7 @@ const Header = () => {
           <HeaderLink rota={'/'}>
             HOME
           </HeaderLink>
-          <HeaderLink rota={'/gimmickpuppet'}>
+          <HeaderLink rota={'/novoVideo'}>
             NOVO VÍDEO
           </HeaderLink>
         </div>

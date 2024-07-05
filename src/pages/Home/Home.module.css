@@ -20,3 +20,9 @@
     flex-wrap: wrap;
     gap: 32px;
 }
+
+.containerVideos p{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+}
