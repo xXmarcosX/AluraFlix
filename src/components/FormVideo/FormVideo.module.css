@@ -1,0 +1,81 @@
+h1{
+    font-size: 60px;
+}
+
+p{
+    margin-top: 1%;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+.subtitle{
+    border-top: 1px solid#262626;
+    border-bottom: 1px solid#262626;
+    width: 80%;
+    font-size: 36px;
+    padding: 0.5em 0.5em;
+    margin-top: 5%;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    padding: 2em 1em;
+    gap: 20px;
+    font-size: 18px;
+}
+
+.container{
+    display: flex;
+    gap: 20px;
+}
+
+form label{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+form label input, select, textarea{
+    border: 3px solid #262626;
+    background-color: #191919;
+    color: white;
+    border-radius: 8px;
+    padding: 1.5em 1.5em;
+    font-family: 'Roboto', sans-serif;
+    font-size: 19px;
+}
+
+form label textarea{
+    height: 30vh;
+    resize: none;
+}
+
+form label input::placeholder, textarea::placeholder{
+    color: #A5A5A5;
+}
+
+.btns{
+    display: flex;
+    gap: 20px;
+}
+
+.btns button, .btns input{
+    margin-top: 5%;
+    width: 20%;
+    background-color: #191919;
+    color: white;
+    border: 3px solid white;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 1rem 1rem;
+    cursor: pointer;
+    transition: 200ms ease-in-out;
+}
+
+.btns button:hover, .btns input:hover{
+    border: 3px solid #2169C0;
+}

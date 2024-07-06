@@ -7,7 +7,7 @@ import Logo from './image/image 1 (2).svg'
 const Header = () => {
   return (
     <>
-      <header>
+      <header className={style.header}>
         <Link to='/'>
           <img src={Logo} alt="" />
         </Link>

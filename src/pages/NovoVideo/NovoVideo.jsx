@@ -1,9 +1,13 @@
 import React from 'react'
+import FormVideo from '../../components/FormVideo/FormVideo'
+import style from './NovoVideo.module.css'
 
 const NovoVideo = () => {
   return (
     <>
-      <h1>Olá bois</h1>
+      <div className={style.main}>
+        <FormVideo/>
+      </div>
     </>
   )
 }
