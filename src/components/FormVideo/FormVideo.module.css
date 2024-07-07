@@ -17,7 +17,7 @@ p{
     margin-top: 5%;
 }
 
-form{
+.form{
     display: flex;
     flex-direction: column;
     width: 80%;
@@ -31,14 +31,14 @@ form{
     gap: 20px;
 }
 
-form label{
+.form label{
     width: 50%;
     display: flex;
     flex-direction: column;
     gap: 10px;
 }
 
-form label input, select, textarea{
+.form label input, select, textarea{
     border: 3px solid #262626;
     background-color: #191919;
     color: white;
@@ -48,12 +48,12 @@ form label input, select, textarea{
     font-size: 19px;
 }
 
-form label textarea{
+.form label textarea{
     height: 30vh;
     resize: none;
 }
 
-form label input::placeholder, textarea::placeholder{
+.form label input::placeholder, textarea::placeholder{
     color: #A5A5A5;
 }
 
@@ -78,4 +78,12 @@ form label input::placeholder, textarea::placeholder{
 
 .btns button:hover, .btns input:hover{
     border: 3px solid #2169C0;
+}
+
+.error{
+    border: 3px solid red;
+}
+
+.error::placeholder{
+    color: red;
 }
