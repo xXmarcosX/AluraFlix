@@ -1,0 +1,98 @@
+.modalOverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(3, 18, 47, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+  }
+  
+  .modalContent {
+    background-color: rgb(3, 18, 47);
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #6BD1FF;
+    height: auto;
+    padding: 2em 1em;
+  }
+  
+ .modalContent h2{
+    color: #2271D1;
+    font-size: 60px;
+ }
+
+  .closeButton {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+  
+  .modalContent form{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    gap: 20px;
+  }
+
+  .modalContent form label{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .modalContent form label input{
+    height: 7vh;
+    border: 3px solid #2271D1;
+    border-radius: 8px;
+    background-color: #03122F;
+    color: white;
+    padding: 1em 1em;
+    font-size: larger;
+  }
+
+  .modalContent form label textarea{
+    height: 10vh;
+    border: 3px solid #2271D1;
+    border-radius: 8px;
+    background-color: #03122F;
+    resize: none;
+  }
+
+  .modalContent form label textarea::-webkit-scrollbar{
+    background-color: #03122F;
+  }
+
+  .modalContent form div{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .modalContent form div button, .modalContent form div input{
+    margin-top: 5%;
+    width: 20%;
+    background-color: #03122F;
+    color: white;
+    border: 3px solid white;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 6px 6px;
+    cursor: pointer;
+    transition: 200ms ease-in-out;
+  }
