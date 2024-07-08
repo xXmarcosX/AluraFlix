@@ -108,11 +108,22 @@
     margin-bottom: 20%;
     height: 87vh;
     gap: 20px;
-    width: 80%;
+    width: 100%;
   }
 
   .modalContent form label input {
     height: 2vh;
+  }
+
+  .modalContent form div button,
+  .modalContent form div input {
+    width: 45%;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px){
+  .modalContent{
+    width: 100%;
   }
 
   .modalContent form div button,

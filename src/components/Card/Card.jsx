@@ -144,6 +144,7 @@ const Card = ({ video, cor }) => {
               name="titulo"
               value={selectedVideo.titulo}
               onChange={handleInputChange}
+              required
             />
           </label>
 
@@ -154,6 +155,7 @@ const Card = ({ video, cor }) => {
               onChange={handleSelectChange}
               styles={customStyles}
               options={options}
+              required
             />
           </label>
 
@@ -164,6 +166,7 @@ const Card = ({ video, cor }) => {
               name="imagem"
               value={selectedVideo.imagem}
               onChange={handleInputChange}
+              required
             />
           </label>
 
@@ -174,6 +177,7 @@ const Card = ({ video, cor }) => {
               name="video"
               value={selectedVideo.video}
               onChange={handleInputChange}
+              required
             />
           </label>
 
@@ -184,6 +188,7 @@ const Card = ({ video, cor }) => {
               maxLength={300}
               value={selectedVideo.descricao}
               onChange={handleInputChange}
+              required
             />
           </label>
 

@@ -107,3 +107,12 @@ p{
         align-items: center;
     }
 }
+
+@media (min-width: 768px) and (max-width: 1024px){
+    .form label{
+        width: 53%;
+    }
+    .btns button, .btns input{
+        width: 60%;
+    }
+}

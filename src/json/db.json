@@ -1,20 +1,76 @@
 {
   "videos": [
     {
-      "id": "1",
-      "titulo": "O que faz um dev front",
-      "categoria": "BACK END",
-      "imagem": "https://s2-techtudo.glbimg.com/4oP5fCQaE1GDydFO3YDMPcjXC48=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/2/w/eORJw3TuOmAfaA7Bh73g/faker-worlds.jpg",
-      "video": "https://www.youtube.com/embed/0suIFAAClvg?si=zKjbtOFdOMSewlwe",
-      "descricao": "lorem ipsum dolor sit amet consectectur"
+      "id": "3f78",
+      "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+      "categoria": "FRONT END",
+      "imagem": "https://i.ytimg.com/vi/ZY3-MFxVdEw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBS9pc6mdYSygHZqcwqBT75vcct9A",
+      "video": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&pp=ygUPYWx1cmEgZnJvbnQgZW5k",
+      "descricao": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa nesse episódio! "
     },
     {
-      "id": "8",
-      "titulo": "O que faz um dev front",
+      "id": "45cc",
+      "titulo": "Como testar seu Front-end? com Mario Souto | #HipstersPontoTube",
       "categoria": "FRONT END",
-      "imagem": "https://s2-techtudo.glbimg.com/4oP5fCQaE1GDydFO3YDMPcjXC48=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/2/w/eORJw3TuOmAfaA7Bh73g/faker-worlds.jpg",
-      "video": "https://www.youtube.com/embed/0suIFAAClvg?si=zKjbtOFdOMSewlwe",
-      "descricao": "lorem ipsum dolor sit amet consectectur"
+      "imagem": "https://i.ytimg.com/vi/CaTbfdsVydE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAR3yiXpoQbLbDzj7OQTCDsf4D0PA",
+      "video": "https://www.youtube.com/watch?v=CaTbfdsVydE&ab_channel=Alura",
+      "descricao": "Por onde começar a testar as habilidades em Front-end? Se você tem dúvidas na hora de testar softwares e colocar em prática técnicas modernas, esse vídeo vai te ajudar."
+    },
+    {
+      "id": "4b66",
+      "titulo": "Guia de carreira Front-end | #HipstersPontoTube",
+      "categoria": "FRONT END",
+      "imagem": "https://i.ytimg.com/vi/fpth65ts3cw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvsZSL2HZddDf0Jo0druhP21HJ9Q",
+      "video": "https://www.youtube.com/watch?v=fpth65ts3cw&ab_channel=Alura",
+      "descricao": "\nNesse primeiro episódio, confira o que é front-end e como seguir nessa área da tecnologia, através do Tech Guide front-end, um Guia de Estudos do iniciante ao avançado. São 3 níveis de Profundidade e 1 nível de Expansão, formando seu perfil como Dev Front-End em T."
+    },
+    {
+      "id": "721d",
+      "titulo": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei | #HipstersPontoTube",
+      "categoria": "BACK END",
+      "imagem": "https://i.ytimg.com/vi/fiPfvylj6rk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTpL8dYV4PwLV0Q3OminyZxlRR2Q",
+      "video": "https://www.youtube.com/watch?v=fiPfvylj6rk&ab_channel=Alura",
+      "descricao": "Afinal, quem trabalha com Back-end faz o que? Com quais outras áreas da tecnologia essa pessoa acaba se relacionando no dia a dia de trabalho e quais os possíveis caminhos nessa carreira? 🤔"
+    },
+    {
+      "id": "2c88",
+      "titulo": "O que é o Java? #HipstersPontoTube",
+      "categoria": "BACK END",
+      "imagem": "https://i.ytimg.com/vi/90NcVNsKGik/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtw7-uZ3kkt1az3H29PyaaS1pEOQ",
+      "video": "https://www.youtube.com/watch?v=90NcVNsKGik&ab_channel=Alura",
+      "descricao": "O bom, velho e onipresente Java! É fácil de aprender? Como é programar em Java? Roberta e Paulo debatem sobre suas experiências com essa linguagem querida e famosa neste vídeo. \n\nE qual é a sua relação com o Java? Compartilhe com a gente! "
+    },
+    {
+      "id": "6317",
+      "titulo": "O que é Python? #HipstersPontoTube",
+      "categoria": "BACK END",
+      "imagem": "https://i.ytimg.com/vi/-LATVnPcvHI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeV--u8rPtB8HxrT4k9hd1lWvarQ",
+      "video": "https://www.youtube.com/watch?v=-LATVnPcvHI&ab_channel=Alura",
+      "descricao": "Com o crescimento do Data Science e Machine Learning, cada vez mais bibliotecas são escritas em Python, aumentando a adoção desta linguagem que nasceu no século passado. Mas, o que é Python e quais os seus usos? O Gui Silveira explica neste Hipsters.tube! "
+    },
+    {
+      "id": "de32",
+      "titulo": "Desenvolvimento Android #HipstersPontoTube",
+      "categoria": "MOBILE",
+      "imagem": "https://i.ytimg.com/vi/fWscDFHKgw8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClfate1Dk0AOfvUtxwVtS-xtn7YA",
+      "video": "https://www.youtube.com/watch?v=fWscDFHKgw8&ab_channel=Alura",
+      "descricao": "Um episódio focado no desenvolvimento de aplicações Android. Neste bate-papo, Paulo Silveira e Felipe Torres conversam sobre os primeiros passos para começar a desenvolver, quais as principais ferramentas do desenvolvimento mobile, como colocar sua aplicação no ar e mais! "
+    },
+    {
+      "id": "2e8b",
+      "titulo": "Desmistificando Mobile- Por onde eu começo? #01",
+      "categoria": "MOBILE",
+      "imagem": "https://i.ytimg.com/vi/2z6f8VN_Pro/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvkptlgJE41DQGkIcR3et2yhHxqw",
+      "video": "https://www.youtube.com/watch?v=2z6f8VN_Pro&ab_channel=Alura",
+      "descricao": "Tem série nova no canal 🤩\n\nA Websérie “Desmistificando o mobile” vêm aí para simplificar com exemplos práticos vários assuntos envolvendo o mundo dos aplicativos de celular e neste primeiro episódio vamos partir, literalmente, do começo, por onde começar a estudar sobre o mundo dos apps? Os instrut"
+    },
+    {
+      "id": "0191",
+      "titulo": "Desenvolvimento iOS pra iniciantes com Giovanna Moeller | #HipstersPontoTube",
+      "categoria": "MOBILE",
+      "imagem": "https://i.ytimg.com/vi/MGIs7DSQ-0A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGv2TDVFrEgY8CwZdRf2xJQAatJg",
+      "video": "https://www.youtube.com/watch?v=MGIs7DSQ-0A&ab_channel=Alura",
+      "descricao": "Por onde começar em iOS? Qual linguagem é importante dominar? Quais ferramentas necessárias para mergulhar no desenvolvimento iOS? 🤔\n\nO ‪@DevSoutinho‬ é o host desse episódio e ele recebeu a Giovanna Moeller para compartilhar dicas incríveis sobre desenvolvimento iOS para quem está começando nessa "
     }
   ]
 }
