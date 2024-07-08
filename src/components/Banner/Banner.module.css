@@ -53,3 +53,25 @@
         display: none;
     }
 }
+
+@media (min-width: 769px) and (max-width: 1024px){
+    .bannerContainerInfo{
+        width: 40%;
+    }
+
+    .bannerContainerInfo h1{
+        font-size: 32px;
+        width: 60%;
+    }
+    
+    .bannerContainerInfo h2{
+        font-size: 32px;
+    }
+
+    .bannerContainerInfo p{
+        font-size: 18px;
+    }
+    .iframe{
+        width: 60%;
+    }
+}
