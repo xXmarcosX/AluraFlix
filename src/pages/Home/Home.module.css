@@ -28,10 +28,14 @@
 }
 
 @media (max-width: 768px){
+    .main{
+        padding-bottom: 25%;
+    }
+
     .containerVideos{
         flex-wrap: nowrap;
         overflow: auto;
         justify-content: unset;
-        padding: 2em 1.3em;
+        padding: 1em 1em;
     }
 }

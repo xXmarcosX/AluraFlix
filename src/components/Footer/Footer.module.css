@@ -7,3 +7,28 @@
     border-top: 6px solid #2271D1;
     height: 15vh;
 }
+
+.footerBtns{
+    display: none;
+}
+
+@media (max-width: 768px){
+    .footer{
+        z-index: 9999;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+        height: 14vh;
+    }
+
+    .footer img{
+        display: none;
+    }
+
+    .footerBtns{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+    }
+}
