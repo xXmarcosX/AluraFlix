@@ -26,3 +26,12 @@
     font-family: 'Roboto', sans-serif;
     font-size: 32px;
 }
+
+@media (max-width: 768px){
+    .containerVideos{
+        flex-wrap: nowrap;
+        overflow: auto;
+        justify-content: unset;
+        padding: 2em 1.3em;
+    }
+}

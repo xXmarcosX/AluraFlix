@@ -41,10 +41,8 @@
     color: white;
 }
 
-.select{
-    border: 3px solid #2271D1;
-    border-radius: 8px;
-    background-color: #03122F;
-    height: 7vh;
-    color: white;
-  }
+@media (max-width: 768px){
+    .container{
+        min-width: 80vw
+    }
+}
