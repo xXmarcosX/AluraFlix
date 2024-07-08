@@ -87,3 +87,17 @@ p{
 .error::placeholder{
     color: red;
 }
+
+@media (max-width: 768px){
+    .container{
+        flex-direction: column;
+    }
+
+    .form label{
+        width: 100%;
+    }
+
+    .btns button, .btns input{
+        width: 50%;
+    }
+}
