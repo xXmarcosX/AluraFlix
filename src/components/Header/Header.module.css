@@ -17,3 +17,15 @@
         display: none;
     }
 }
+
+
+@media (min-width: 769px) and (max-width: 1024px){
+
+    .headerBtns{
+        width: 46.6%;
+    }
+
+    .header img{
+        width: 90%;
+    }  
+   }

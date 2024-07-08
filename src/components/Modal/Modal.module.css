@@ -99,25 +99,24 @@
   transition: 200ms ease-in-out;
 }
 
-@media (max-width: 768px){
-  .modalContent h2{
+@media (max-width: 768px) {
+  .modalContent h2 {
     font-size: 24px;
- }
+  }
 
- .modalContent{
-  margin-bottom: 20%;
-  height: 87vh;
-  gap: 20px;
-  width: 80%;
- }
+  .modalContent {
+    margin-bottom: 20%;
+    height: 87vh;
+    gap: 20px;
+    width: 80%;
+  }
 
- .modalContent form label input{
-  height: 2vh;
- }
+  .modalContent form label input {
+    height: 2vh;
+  }
 
- 
-.modalContent form div button,
-.modalContent form div input{
-  width: 45%;
-}
+  .modalContent form div button,
+  .modalContent form div input {
+    width: 45%;
+  }
 }

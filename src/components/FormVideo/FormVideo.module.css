@@ -100,4 +100,10 @@ p{
     .btns button, .btns input{
         width: 50%;
     }
+
+    .btns{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
 }
