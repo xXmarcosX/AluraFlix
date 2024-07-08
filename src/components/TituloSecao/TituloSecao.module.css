@@ -9,3 +9,10 @@
     margin-left: 3%;
     margin-top: 2%;
 }
+
+@media (max-width: 768px){
+    .title{
+        width: 70%;
+        margin-top: 15%;
+    }
+}
