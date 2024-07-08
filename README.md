@@ -1,8 +1,6 @@
-# React + Vite
+  CRUD de vídeos usando react + json-server <br/>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  Para rodar o projeto: 
+  1 - rodar o comando "npm i" para instalar as dependências <br/>
+  2 - rodar o comando "npm run backend" para rodar o json-server <br/>
+  3 - rodar o comando "npm run dev" para rodar o site
